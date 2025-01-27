@@ -10,10 +10,10 @@ This tool uses Markdown files to store information while a database takes care o
 
 ## Key Features
 
-- Store notes, tasks, and other information in a [SQLite database](#sqlite-database) and [Markdown files](#markdown-files)
-- Customize the behavior of Cerebra with a [configuration file](#configuration-file)
-- Use a simple and intuitive [command-line interface](#command-line-interface) to interact with your knowledge base
-- Use a [TUI](#tui) for a more interactive experience
+- Store notes, tasks, and other information in a SQLite database and Markdown files
+- Customize the behavior of Cerebra with a configuration file
+- Use a simple and intuitive command-line interface to interact with your knowledge base
+- Use a TUI for a more interactive experience
 
 ## Planned Features
 
