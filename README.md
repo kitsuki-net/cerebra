@@ -38,7 +38,7 @@ This tool uses Markdown files to store information while a database takes care o
 To install Cerebra, you can clone the repository and build it yourself:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/kitsuki-net/cerebra.git
 cd cerebra
 cargo build --release
 ```
