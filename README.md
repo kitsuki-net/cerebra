@@ -1,4 +1,4 @@
-# Cerebra: a terminal-based knowledge management tool
+# Cerebra
 
 Cerebra is a terminal-based knowledge management tool written in Rust.
 
